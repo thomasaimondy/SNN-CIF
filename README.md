@@ -1,1 +1,1 @@
-# SNN-CIF
+# SNN-CIF-Transformer
